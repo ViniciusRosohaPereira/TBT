@@ -14,7 +14,7 @@ export default function Index() {
           width="250"
           alt="Vercel + Notion"
         />
-        <h1>Diário de bordo tigosc</h1>
+        <h1>Diário de bordo tigosc </h1>
         <h2>
           Blazing Fast Notion Blog with Next.js'{' '}
           <ExtLink
